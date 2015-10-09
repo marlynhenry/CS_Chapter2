@@ -9,6 +9,10 @@ namespace HoursAndMinutes
     {
         static void Main(string[] args)
         {
+            double jobtime = 250;
+            double hours = jobtime / 60;
+            double minutes = jobtime % 60;
+            Console.WriteLine(" {0} hours and {1} minutes", hours, minutes);
         }
     }
 }

@@ -1,0 +1,5 @@
+C:\Users\EAHSCS\Documents\GitHub\CS_Chapter2\CS_Chapter2\Eggs\bin\Debug\Eggs.exe
+C:\Users\EAHSCS\Documents\GitHub\CS_Chapter2\CS_Chapter2\Eggs\bin\Debug\Eggs.pdb
+C:\Users\EAHSCS\Documents\GitHub\CS_Chapter2\CS_Chapter2\Eggs\obj\x86\Debug\Eggs.csprojResolveAssemblyReference.cache
+C:\Users\EAHSCS\Documents\GitHub\CS_Chapter2\CS_Chapter2\Eggs\obj\x86\Debug\Eggs.exe
+C:\Users\EAHSCS\Documents\GitHub\CS_Chapter2\CS_Chapter2\Eggs\obj\x86\Debug\Eggs.pdb

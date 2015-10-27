@@ -9,10 +9,11 @@ namespace Yards
     {
         static void Main(string[] args)
         {
-            double length = 25;
-            double width = 42;
+            double length = 1;
+            double width = 1;
             double area = (length * width);
-            double cost = 116.66;
+            double price = 2.25;
+            double cost = area * price/9;
             Console.WriteLine("The price of the carpeting is {0}", (cost.ToString("C"))); 
         }
     }
